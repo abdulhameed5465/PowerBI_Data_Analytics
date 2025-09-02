@@ -31,13 +31,13 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 ### Page 1: High-Level Market View
 
-![Data Jobs Dashboard Page 1](/images/project1_page1.png)  
+![Data Jobs Dashboard Page 1](./images/project1_page1.png)  
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
 ### Page 2: Job Title Drill Through
 
-![Data Jobs Dashboard Page 2](/images/project1_page2.png)  
+![Data Jobs Dashboard Page 2](./images/project1_page2.png)  
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
@@ -46,3 +46,4 @@ This is the deep-dive page. From the main dashboard, you can drill through to th
 ## Conclusion
 
 This dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make informed decisions about their career paths.
+
